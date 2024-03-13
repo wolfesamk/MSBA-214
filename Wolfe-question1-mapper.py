@@ -26,4 +26,4 @@ for fileline in sys.stdin:
     
     for word in filewords:
         if word in keywords:
-            print ('%s\t%s' % (word, 1))   
+            print ('%s\t%s' % (word, 1))

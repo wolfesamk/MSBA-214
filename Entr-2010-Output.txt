@@ -1,0 +1,18 @@
+article	1
+available	1
+because	1
+important	1
+time	1
+
+community	1
+entrepreneurship	1
+feeling	1
+great	3
+
+business	9
+companies	5
+entrepreneur	1
+means	1
+need	2
+people	4
+
