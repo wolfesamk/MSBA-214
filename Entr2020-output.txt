@@ -1,3 +1,9 @@
+Entrepreneur	3
+Feel	1
+People	7
+Perseverance	1
+Remarkable	5
+Work	1
 article	6
 available	2
 because	6
@@ -16,6 +22,10 @@ time	4
 workplace	2
 years	4
 
+Bored	5
+Enough	1
+Life	1
+Years	1
 career	3
 choose	4
 community	2
@@ -29,6 +39,8 @@ helps	3
 information	2
 world	3
 
+Bizarre	3
+Companies	1
 before	4
 bizarre	1
 business	2
