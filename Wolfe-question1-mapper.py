@@ -25,5 +25,5 @@ for fileline in sys.stdin:
     filewords = fileline.split(" ")
     
     for word in filewords:
-        if word in keywords:
+        if word.lower() in keywords:
             print ('%s\t%s' % (word, 1))
